@@ -252,6 +252,7 @@ When learning accelerates, innovation compounds.
 
 ![Followers](https://img.shields.io/github/followers/ericchapman80?style=flat&logo=github)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ericchapman80&query=$.public_repos&label=public%20repos&logo=github)
+![Stars](https://img.shields.io/github/stars/ericchapman80?affiliations=OWNER%2CCOLLABORATOR&style=flat&logo=github)
 
 ## 🔥 Contribution Graph
 
