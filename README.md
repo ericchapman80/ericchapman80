@@ -1,14 +1,14 @@
 # Eric Chapman
 
-Engineering leader building **AI-native developer platforms** and high-leverage engineering systems.
+Experienced Engineering leader building **AI-native developer platforms** and high-leverage engineering teams.
 
-I work at the intersection of **Developer Experience, Platform Engineering, and Generative AI**, designing systems that help engineering organizations move faster and deliver better software.
+I work at the intersection of **Developer Experience, Platform Engineering, Product Engineering, and Generative AI**, designing systems that help engineering organizations move faster and deliver better software.
 
-Most of my work focuses on improving **how engineering teams operate** — the tooling, platforms, and workflows that determine how quickly teams can learn, build, and ship.
+Most of my work focuses on improving **how engineering teams operate** — the principles, practices, tooling, platforms, and workflows that determine how quickly teams can learn, build, and ship resilient, secure, high quality software.
 
 **My focus is simple:**
 
-> Reduce friction. Increase flow. Amplify engineers.
+> Reduce friction. Improve flow. Amplify engineers. Increase Joy. Delivery Value.
 
 ---
 
@@ -16,23 +16,24 @@ Most of my work focuses on improving **how engineering teams operate** — the t
 
 I’m currently working on:
 
+- Engineering Effectiveness
 - Developer Experience (DevEx)
 - Platform Engineering
-- Engineering Effectiveness
 - Generative AI for Software Engineering
+- Delivery Insights (Metrics that Matter)
 - App & Infrastructure Modernization
 - Cloud-native technologies
 
-Recently I’ve been exploring what **AI-native software development** actually looks like in practice.
+Recently I’ve been exploring what **AI-native software development** actually looks like in practice. Focusing MORE on **AI Workflows** and LESS on **AI Tools**.
 
 Not just AI tools layered onto existing workflows — but **development environments designed around human + AI collaboration.**
 
 Areas I’m currently exploring:
 
-- Enterprise AI enablement for engineering teams  
+- Enterprise AI enablement for engineering teams
+- AI-assisted developer workflows - evolving our ways of working 
 - Retrieval-Augmented Generation (RAG)  
-- Context delivery for AI coding assistants  
-- AI-assisted developer workflows  
+- Context delivery for AI coding assistants   
 - Internal developer platforms  
 - Engineering effectiveness metrics  
 
@@ -156,7 +157,7 @@ I enjoy collaborating on:
 - Engineering Enablement
 - Generative AI
 - AI-assisted development
-- DevOps modernization
+- DevOps Modernization
 
 ---
 
@@ -183,9 +184,8 @@ I enjoy collaborating on:
 
 ### Containers & Infrastructure
 
-- Docker
+- Docker, Rancher, Colima
 - Kubernetes (always learning)
-- Colima
 - Platform engineering
 
 ### AI Engineering
@@ -195,14 +195,17 @@ I enjoy collaborating on:
 - RAG systems
 - Local LLM infrastructure
 - Embeddings & vector search
+- SELECT * FROM All-AI-Tools
 
 ### Languages & Tools
 
+- C / C++
+- Java
+- C#
 - Python
 - JavaScript / TypeScript
 - Bash
-- GitHub Actions
-- CI/CD systems
+- CI/CD Pipelines & Systems- GitHub, Jenkins, GitLab, CircleCI, Tekton etc.
 
 ---
 
@@ -264,7 +267,7 @@ When learning accelerates, innovation compounds.
 
 When I’m not building platforms:
 
-- Supporting and coaching my kids’ sports 🏈 🏀 ⚽
+- Supporting and coaching my three kids’ sports 🏈 🏀 ⚽
 - Strength training and fitness
 - Home lab and infrastructure experiments
 - DIY engineering projects
@@ -275,7 +278,7 @@ When I’m not building platforms:
 ## 📫 Connect
 
 **LinkedIn**  
-https://www.linkedin.com/in/ericchapman/
+https://www.linkedin.com/in/ericchapman80/
 
 **GitHub**  
 https://github.com/ericchapman80
