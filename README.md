@@ -248,6 +248,15 @@ When learning accelerates, innovation compounds.
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ericchapman80&show_icons=true&hide_border=true&theme=transparent" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericchapman80&layout=compact&hide_border=true&theme=transparent" height="165">
+</p>
+
+---
+
 ## ⚡ Outside of Engineering
 
 When I’m not building platforms:
