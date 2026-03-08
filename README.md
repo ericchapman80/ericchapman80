@@ -251,9 +251,13 @@ When learning accelerates, innovation compounds.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericchapman80&show_icons=true&hide_border=true&theme=transparent" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericchapman80&layout=compact&hide_border=true&theme=transparent" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ericchapman80&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ericchapman80&layout=compact&hide_border=true&theme=transparent" height="165"/>
 </p>
+
+## 🔥 Contribution Graph
+
+[![Eric's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ericchapman80&theme=github-compact&hide_border=true)](https://github.com/ericchapman80)
 
 ---
 
